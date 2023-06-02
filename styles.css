@@ -90,6 +90,8 @@ a{
 .video-container{
     justify-content: center;
     display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
 }
 @media (max-width: 768px) {
     .column {
@@ -126,6 +128,9 @@ a{
 
     }
 } 
-/*.img-container{
+.img-container{
     flex-direction: column;
-}*/
+}
+footer{
+    margin-top:30px; 
+}
