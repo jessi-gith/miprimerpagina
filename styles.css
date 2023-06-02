@@ -87,6 +87,10 @@ a{
     justify-content: center;
 }
 
+.video-container{
+    justify-content: center;
+    display: flex;
+}
 @media (max-width: 768px) {
     .column {
         flex: 100%;
