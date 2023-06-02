@@ -85,6 +85,7 @@ a{
     flex-wrap: wrap;
     width: 100px;
     justify-content: center;
+    text-align: center;
 }
 
 .video-container{
@@ -128,9 +129,9 @@ a{
 
     }
 } 
-.img-container{
+/*.img-container{
     flex-direction: column;
-}
+}*/
 footer{
     margin-top:30px; 
     justify-content: center;
