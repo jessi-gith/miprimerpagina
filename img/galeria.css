@@ -1,0 +1,18 @@
+.botones{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+.gallery-container{
+    width: 400px;
+    height: 400px;
+    max-width: 99%;
+    max-height: 99%;
+}
+.image-slider{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
